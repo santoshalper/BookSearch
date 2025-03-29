@@ -6,7 +6,7 @@ In this project, we have created a user based Book searching application. In thi
 
 ## Installation
 
-A deployed version of the application can be found at the following url:
+A deployed version of the application can be found at the following url: https://booksearch-t3h4.onrender.com
 
 If the application is to be tested locally, first run "npm i" to install all required dependencies, "npm build" to build the server side of the project, and "npm run develop" to run the project as a vite
 
